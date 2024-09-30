@@ -19,6 +19,10 @@ Este projeto é uma simples calculadora de IMC (Índice de Massa Corporal), dese
 2. Informe a sua altura em metros (m).
 3. O sistema irá calcular e exibir o seu IMC e a sua classificação.
 
+## Acesso ao projeto
+
+- Link: https://jpabloslino.github.io/calculadora-imc/
+
 ## Exemplo de Uso
 
 ```bash
