@@ -23,7 +23,7 @@ body {
 }
 
 #img {
-    width: 22rem;
+    width: 50rem;
 }
 
 #calculator {
@@ -165,7 +165,7 @@ body {
     color: #dc2626;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1500px) {
     #img {
         display: none;
     }
